@@ -55,7 +55,7 @@ Algunas de las conclusiones del análisis exploratorio de datos son las siguient
 + El 90.11% de las películas no pertenecen a una colección.
 + Hay una correlación positiva fuerte entre el presupuesto y los ingresos de las películas.
 
- ***El EDA en google colab se puede obtener Aquí***
+ ***El EDA en google colab se puede obtener [Aquí](https://colab.research.google.com/drive/18Jq2qnVS4IXi1V2HVvI_YxVdVt8dHVLS?usp=sharing)***
 
 ## Endpoints
 PELICULAS POR IDIOMA

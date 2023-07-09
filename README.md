@@ -61,6 +61,23 @@ Algunas de las conclusiones del análisis exploratorio de datos son las siguient
 PELICULAS POR IDIOMA
 + def peliculas_idioma(idioma: str)
 + Se ingresa un idioma (como están escritos en el dataset)y devuelve la cantidad de películas producidas en ese idioma.
++ Se debe ingresar el codigo del idioma 
+    'en': 'Inglés',
+    'fr': 'Francés',
+    'zh': 'Chino',
+    'it': 'Italiano',
+    'fa': 'Persa (Farsi)',
+    'nl': 'Neerlandés (Holandés)',
+    'de': 'Alemán',
+    'es': 'Español',
+    'ru': 'Ruso',
+    'sv': 'Sueco',
+    'ja': 'Japonés',
+    'ko': 'Coreano',
+    'pt': 'Portugués',
+    'ro': 'Rumano',
+    'hu': 'Húngaro',
+    'vi': 'Vietnamita'
                     
 PELICULAS POR DURACION
 + def peliculas_duracion(pelicula:str):

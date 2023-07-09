@@ -1,4 +1,4 @@
-# PROYECTO INDIVIDUAL Nº1
+# PROYECTO INDIVIDUAL Nº 1
 
 ## Proyecto MLOps Engineer: 
 >***Recomendación de Contenido en Plataformas de Streaming***

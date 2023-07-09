@@ -61,7 +61,7 @@ Algunas de las conclusiones del análisis exploratorio de datos son las siguient
 PELICULAS POR IDIOMA
 + def peliculas_idioma(idioma: str)
 + Se ingresa un idioma (como están escritos en el dataset)y devuelve la cantidad de películas producidas en ese idioma.
-+ Se debe ingresar el codigo del idioma 
++ Se debe ingresar el codigo del idioma:  
     'en': 'Inglés',
     'fr': 'Francés',
     'zh': 'Chino',

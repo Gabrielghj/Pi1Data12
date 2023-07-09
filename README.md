@@ -78,7 +78,7 @@ PELICULAS POR PRODUCTORA EXITOSA
 + def productoras_exitosas(productora:str):
 + Se ingresa la productora, Y entrega el revunue total y la cantidad de peliculas que realizo.
   
-***Las funciones en google colab se pueden obtener Aquí***
+***Las funciones en google colab se pueden obtener [Aquí](https://colab.research.google.com/drive/1X8nYi6o95qbsY6VjF20r054MemS3DO35?usp=sharing)***
 
 ## SISTEMA DE RECOMENDACION
 Primero se realiza un filtrado por genero para reducir la cantidad de datos. Al introducir el titulo de la
